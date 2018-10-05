@@ -1,3 +1,4 @@
 # firstTry
 myfirstTry
-bonjour à tous et bienvenue
+bonjour,
+ceci est un fichier d'entrainement sur github
